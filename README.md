@@ -17,6 +17,9 @@ Frontend :
 Backend :
   Django
 
+Application Developement
+  Android Studio 
+  
 IDE & Tools :
 VS Code & PyCharm
 <!---
