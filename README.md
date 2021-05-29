@@ -18,7 +18,7 @@ Frontend :
 Backend :
   Django
 
-Application Developement
+Application Developement :
   Android Studio 
   
 IDE & Tools :
