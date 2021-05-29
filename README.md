@@ -10,6 +10,7 @@ Programming languages :
 
 Frontend :
   ReactJS,
+  NextJS,
   Html5,
   Css3
   
