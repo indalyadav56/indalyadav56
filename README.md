@@ -1,30 +1,19 @@
-- Hi there 👋 Welcome to my GitHub! I'm Indal Yadav, FullStack Developer
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--  -->
-Programming languages :
-  Python,
-  JavaScript
+# Hi there 👋 Welcome to my GitHub! I'm Indal Yadav,I am a FullStack Developer
 
-Frontend :
-  ReactJS,
-  NextJS,
-  Html5,
-  Css3
-  
-  
-Backend :
-  Django
+## Programming languages :
+  - Python,
+ - JavaScript
 
-Application Developement :
-  Android Studio 
+## Frontend :
+ - ReactJS,
+ - NextJS,
+ - Html,
+ - Css
   
-IDE & Tools :
-VS Code & PyCharm
-
-<!---
-indalkumaryadav/indalkumaryadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Backend :
+ - Django
+ - DRF (Django Rest Framework)
+  
+## IDE & Tools :
+ - VS Code
+ - PyCharm
