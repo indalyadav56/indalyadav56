@@ -1,19 +1,21 @@
 # Hi there 👋 Welcome to my GitHub! I'm Indal Yadav,I am a FullStack Developer
 
 ## Programming languages :
-  - Python,
- - JavaScript
+  - #### Python,
+ - #### JavaScript
 
 ## Frontend :
- - ReactJS,
- - NextJS,
- - Html,
- - Css
+ - #### ReactJS,
+ - #### Redux,
+ - #### NextJS,
+ - #### Tailwind CSS,
+ - #### HTML,
+ - #### Css
   
 ## Backend :
- - Django
- - DRF (Django Rest Framework)
+ - #### Django
+ - #### DRF (Django Rest Framework)
   
 ## IDE & Tools :
- - VS Code
- - PyCharm
+ - #### VS Code
+ - #### PyCharm
