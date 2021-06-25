@@ -13,7 +13,7 @@
  - #### Django
  - #### DRF (Django Rest Framework)
 ## Android Development :
-  - #### React Native
+  - #### Fluttter
 
 ## IDE & Tools :
  - #### VS Code
