@@ -2,6 +2,7 @@
 ## Programming languages :
   - #### Python
  - #### JavaScript
+ - #### Dart
 ## Frontend :
  - #### ReactJS
  - #### Redux
