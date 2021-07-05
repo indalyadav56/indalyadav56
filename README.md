@@ -10,6 +10,7 @@
  - #### Tailwind CSS
  - #### HTML
  - #### CSS
+ - #### Bootstrap
 ## Backend :
  - #### Django
  - #### DRF (Django Rest Framework)
