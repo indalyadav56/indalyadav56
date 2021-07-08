@@ -13,8 +13,6 @@
 ## Backend :
  - #### Django
  - #### DRF (Django Rest Framework)
-## Android Development :
-  - #### React Native
 
 ## IDE & Tools :
  - #### VS Code
