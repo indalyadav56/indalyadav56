@@ -17,4 +17,3 @@
 ## IDE & Tools :
  - #### VS Code
  - #### PyCharm
- - #### Android Studio
