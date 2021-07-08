@@ -2,7 +2,6 @@
 ## Programming languages :
   - #### Python
  - #### JavaScript
- - #### Dart
 ## Frontend :
  - #### ReactJS
  - #### Redux
@@ -15,7 +14,7 @@
  - #### Django
  - #### DRF (Django Rest Framework)
 ## Android Development :
-  - #### Fluttter
+  - #### ReactNative
 
 ## IDE & Tools :
  - #### VS Code
