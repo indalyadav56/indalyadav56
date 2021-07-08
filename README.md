@@ -14,7 +14,7 @@
  - #### Django
  - #### DRF (Django Rest Framework)
 ## Android Development :
-  - #### ReactNative
+  - #### React Native
 
 ## IDE & Tools :
  - #### VS Code
