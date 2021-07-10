@@ -4,12 +4,7 @@
  - #### JavaScript
 ## Frontend :
  - #### ReactJS
- - #### Redux
- - #### NextJS
- - #### Tailwind CSS
- - #### HTML
- - #### CSS
- - #### Bootstrap
+ - #### Html/Css
 ## Backend :
  - #### Django
  - #### DRF (Django Rest Framework)
